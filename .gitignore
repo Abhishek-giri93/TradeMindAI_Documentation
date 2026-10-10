@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+.env.production
+.next/
+dist/
+build/
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.turbo/
+coverage/
+.vercel/
