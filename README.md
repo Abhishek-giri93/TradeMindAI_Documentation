@@ -15,6 +15,7 @@
 
 ## 🗺️ Full Roadmap Overview (Click for Daily Topics)
 
+- [**PHASE 0 │ Prerequisites** (Week 1–2)](./Learning/Phase_0_Prerequisites.md)
 - [**PHASE 1 │ Next.js Foundations** (Week 1–3)](./Learning/Phase_1_Foundations.md)
 - [**PHASE 2 │ Intermediate Next.js** (Week 4–7)](./Learning/Phase_2_Intermediate.md)
 - [**PHASE 3 │ Advanced Next.js** (Week 8–12)](./Learning/Phase_3_Advanced.md)
