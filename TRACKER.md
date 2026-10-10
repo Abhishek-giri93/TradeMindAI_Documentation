@@ -20,18 +20,18 @@ git push origin main
 
 | Day | Date | Topic | Status | Notes / What I Built |
 |-----|------|-------|--------|----------------------|
-| 1 | | HTML Semantics | ⬜ | |
-| 2 | | CSS Flexbox & Grid | ⬜ | |
-| 3 | | CSS Animations & Responsive | ⬜ | |
-| 4 | | JS ES6+ (arrow fn, destructuring) | ⬜ | |
-| 5 | | JS Async (Promises, async/await) | ⬜ | |
-| 6 | | JS Modules (import/export) | ⬜ | |
-| 7 | | React — Components & Props | ⬜ | |
-| 8 | | React — Hooks (useState, useEffect) | ⬜ | |
-| 9 | | React — State Lifting & Composition | ⬜ | |
-| 10 | | Git & GitHub (branches, commits) | ⬜ | |
+| 1 | | HTML Semantics | ✅ | |
+| 2 | | CSS Flexbox & Grid | ✅ | |
+| 3 | | CSS Animations & Responsive | ✅ | |
+| 4 | | JS ES6+ (arrow fn, destructuring) | ✅ | |
+| 5 | | JS Async (Promises, async/await) | ✅ | |
+| 6 | | JS Modules (import/export) | ✅ | |
+| 7 | | React — Components & Props | ✅ | |
+| 8 | | React — Hooks (useState, useEffect) | ✅ | |
+| 9 | | React — State Lifting & Composition | ✅ | |
+| 10 | | Git & GitHub (branches, commits) | ✅ | |
 
-**Phase 0 Progress:** `0 / 10` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Phase 0 Progress:** `10 / 10` ✅✅✅✅✅✅✅✅✅✅
 
 ---
 
@@ -212,13 +212,13 @@ git push origin main
 
 | Phase | Total Days | Done | Progress |
 |-------|-----------|------|---------|
-| Phase 0 — Prerequisites | 10 | 0 | `░░░░░░░░░░` 0% |
+| Phase 0 — Prerequisites | 10 | 10 | `██████████` 100% |
 | Phase 1 — Foundations | 12 | 0 | `░░░░░░░░░░` 0% |
 | Phase 2 — Intermediate | 12 | 0 | `░░░░░░░░░░` 0% |
 | Phase 3 — Advanced | 16 | 0 | `░░░░░░░░░░` 0% |
 | Phase 4 — Full-Stack | 10 | 0 | `░░░░░░░░░░` 0% |
 | Project — TradeMind v2.0 | 48 | 0 | `░░░░░░░░░░` 0% |
-| **TOTAL** | **108** | **0** | `░░░░░░░░░░` **0%** |
+| **TOTAL** | **108** | **10** | `█░░░░░░░░░` **9%** |
 
 ---
 
@@ -228,7 +228,7 @@ git push origin main
 
 | Day | Date | Quick Summary |
 |-----|------|--------------|
-| 1 | | *(Start here — write your first entry!)* |
+| 1-10 | | Completed all Phase 0 basics: HTML, CSS, JS, React Hooks & State, Git. Ready for Next.js! |
 
 ---
 
