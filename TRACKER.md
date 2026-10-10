@@ -16,195 +16,195 @@ git push origin main
 
 ---
 
-## 🟦 PHASE 0 — Prerequisites (Week 1–2)
+## 🟡 PHASE 1 — Next.js Foundations (Week 1–3)
 
 | Day | Date | Topic | Status | Notes / What I Built |
 |-----|------|-------|--------|----------------------|
-| 1 | | HTML Semantics | ✅ | |
-| 2 | | CSS Flexbox & Grid | ✅ | |
-| 3 | | CSS Animations & Responsive | ✅ | |
-| 4 | | JS ES6+ (arrow fn, destructuring) | ✅ | |
-| 5 | | JS Async (Promises, async/await) | ✅ | |
-| 6 | | JS Modules (import/export) | ✅ | |
-| 7 | | React — Components & Props | ✅ | |
-| 8 | | React — Hooks (useState, useEffect) | ✅ | |
-| 9 | | React — State Lifting & Composition | ✅ | |
-| 10 | | Git & GitHub (branches, commits) | ✅ | |
-
-**Phase 0 Progress:** `10 / 10` ✅✅✅✅✅✅✅✅✅✅
-
----
-
-## 🟡 PHASE 1 — Next.js Foundations (Week 3–5)
-
-| Day | Date | Topic | Status | Notes / What I Built |
-|-----|------|-------|--------|----------------------|
-| 11 | | What is Next.js (SSR, CSR, SSG) | ⬜ | |
-| 12 | | Project setup (create-next-app) | ⬜ | |
-| 13 | | App Router (page, layout, loading) | ⬜ | |
-| 14 | | Routing (static, dynamic, groups) | ⬜ | |
-| 15 | | Navigation (Link, useRouter) | ⬜ | |
-| 16 | | Server Components (RSC) | ⬜ | |
-| 17 | | Client Components ("use client") | ⬜ | |
-| 18 | | Data Fetching in Server Components | ⬜ | |
-| 19 | | Loading & Error UI (Suspense) | ⬜ | |
-| 20 | | Metadata & SEO | ⬜ | |
-| 21 | | next/image optimization | ⬜ | |
-| 22 | | next/font (Google Fonts) | ⬜ | |
+| 1 | | What is Next.js (SSR, CSR, SSG) | ⬜ | |
+| 2 | | Project setup (create-next-app) | ⬜ | |
+| 3 | | App Router (page, layout, loading) | ⬜ | |
+| 4 | | Routing (static, dynamic, groups) | ⬜ | |
+| 5 | | Navigation (Link, useRouter) | ⬜ | |
+| 6 | | Server Components (RSC) | ⬜ | |
+| 7 | | Client Components ("use client") | ⬜ | |
+| 8 | | Data Fetching in Server Components | ⬜ | |
+| 9 | | Loading & Error UI (Suspense) | ⬜ | |
+| 10 | | Metadata & SEO | ⬜ | |
+| 11 | | next/image optimization | ⬜ | |
+| 12 | | next/font (Google Fonts) | ⬜ | |
 
 **Phase 1 Progress:** `0 / 12` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
-## 🟠 PHASE 2 — Intermediate Next.js (Week 6–9)
+## 🟠 PHASE 2 — Intermediate Next.js (Week 4–7)
 
 | Day | Date | Topic | Status | Notes / What I Built |
 |-----|------|-------|--------|----------------------|
-| 23 | | API Routes (route.ts) | ⬜ | |
-| 24 | | Server Actions ("use server") | ⬜ | |
-| 25 | | Middleware (auth guards) | ⬜ | |
-| 26 | | Cookies & Sessions | ⬜ | |
-| 27 | | NextAuth.js — Basic Setup | ⬜ | |
-| 28 | | NextAuth.js — RBAC & Callbacks | ⬜ | |
-| 29 | | Zustand (global state) | ⬜ | |
-| 30 | | React Query (server state) | ⬜ | |
-| 31 | | CSS Modules | ⬜ | |
-| 32 | | Tailwind CSS | ⬜ | |
-| 33 | | shadcn/ui component library | ⬜ | |
-| 34 | | Forms with react-hook-form + zod | ⬜ | |
+| 13 | | API Routes (route.ts) | ⬜ | |
+| 14 | | Server Actions ("use server") | ⬜ | |
+| 15 | | Middleware (auth guards) | ⬜ | |
+| 16 | | Cookies & Sessions | ⬜ | |
+| 17 | | NextAuth.js — Basic Setup | ⬜ | |
+| 18 | | NextAuth.js — RBAC & Callbacks | ⬜ | |
+| 19 | | Zustand (global state) | ⬜ | |
+| 20 | | React Query (server state) | ⬜ | |
+| 21 | | CSS Modules | ⬜ | |
+| 22 | | Tailwind CSS | ⬜ | |
+| 23 | | shadcn/ui component library | ⬜ | |
+| 24 | | Forms with react-hook-form + zod | ⬜ | |
 
 **Phase 2 Progress:** `0 / 12` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
-## 🔴 PHASE 3 — Advanced Next.js (Week 10–14)
+## 🔴 PHASE 3 — Advanced Next.js (Week 8–12)
 
 | Day | Date | Topic | Status | Notes / What I Built |
 |-----|------|-------|--------|----------------------|
-| 35 | | TypeScript Basics | ⬜ | |
-| 36 | | TypeScript Advanced (utility types) | ⬜ | |
-| 37 | | Zod Schema Validation | ⬜ | |
-| 38 | | Prisma ORM (schema, migrations) | ⬜ | |
-| 39 | | MySQL Raw Queries (mysql2) | ⬜ | |
-| 40 | | DB Transactions (atomic ops) | ⬜ | |
-| 41 | | Performance (memo, useMemo) | ⬜ | |
-| 42 | | Bundle Analysis | ⬜ | |
-| 43 | | Edge Runtime | ⬜ | |
-| 44 | | Streaming (Suspense + AI) | ⬜ | |
-| 45 | | WebSockets with Socket.io | ⬜ | |
-| 46 | | Unit Testing (Jest + RTL) | ⬜ | |
-| 47 | | E2E Testing (Playwright) | ⬜ | |
-| 48 | | Error Monitoring (Sentry) | ⬜ | |
-| 49 | | Vercel Deployment | ⬜ | |
-| 50 | | Docker Basics | ⬜ | |
+| 25 | | TypeScript Basics | ⬜ | |
+| 26 | | TypeScript Advanced (utility types) | ⬜ | |
+| 27 | | Zod Schema Validation | ⬜ | |
+| 28 | | Prisma ORM (schema, migrations) | ⬜ | |
+| 29 | | MySQL Raw Queries (mysql2) | ⬜ | |
+| 30 | | DB Transactions (atomic ops) | ⬜ | |
+| 31 | | Performance (memo, useMemo) | ⬜ | |
+| 32 | | Bundle Analysis | ⬜ | |
+| 33 | | Edge Runtime | ⬜ | |
+| 34 | | Streaming (Suspense + AI) | ⬜ | |
+| 35 | | WebSockets with Socket.io | ⬜ | |
+| 36 | | Unit Testing (Jest + RTL) | ⬜ | |
+| 37 | | E2E Testing (Playwright) | ⬜ | |
+| 38 | | Error Monitoring (Sentry) | ⬜ | |
+| 39 | | Vercel Deployment | ⬜ | |
+| 40 | | Docker Basics | ⬜ | |
 
 **Phase 3 Progress:** `0 / 16` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
-## 🟣 PHASE 4 — Full-Stack Mastery (Week 15–18)
+## 🟣 PHASE 4 — Full-Stack Mastery (Week 13–16)
 
 | Day | Date | Topic | Status | Notes / What I Built |
 |-----|------|-------|--------|----------------------|
-| 51 | | REST API Design patterns | ⬜ | |
-| 52 | | Express security middleware | ⬜ | |
-| 53 | | JWT (access + refresh tokens) | ⬜ | |
-| 54 | | AWS RDS MySQL setup | ⬜ | |
-| 55 | | Environment variables best practices | ⬜ | |
-| 56 | | CORS & SQL injection prevention | ⬜ | |
-| 57 | | File uploads (Multer + S3) | ⬜ | |
-| 58 | | Redis caching | ⬜ | |
-| 59 | | Pagination (cursor & offset) | ⬜ | |
-| 60 | | Turborepo monorepo | ⬜ | |
+| 41 | | REST API Design patterns | ⬜ | |
+| 42 | | Express security middleware | ⬜ | |
+| 43 | | JWT (access + refresh tokens) | ⬜ | |
+| 44 | | AWS RDS MySQL setup | ⬜ | |
+| 45 | | Environment variables best practices | ⬜ | |
+| 46 | | CORS & SQL injection prevention | ⬜ | |
+| 47 | | File uploads (Multer + S3) | ⬜ | |
+| 48 | | Redis caching | ⬜ | |
+| 49 | | Pagination (cursor & offset) | ⬜ | |
+| 50 | | Turborepo monorepo | ⬜ | |
 
 **Phase 4 Progress:** `0 / 10` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
-## 🏗️ PROJECT — TradeMind AI v2.0 (Week 19–30)
+## 🏗️ PROJECT — TradeMind AI v2.0 (Week 17–28)
 
 ### Sprint 1 — Stabilize Existing App
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 61 | | Audit auth routes in production | ⬜ | |
-| 62 | | Fix register endpoint | ⬜ | |
-| 63 | | Fix login + JWT | ⬜ | |
-| 64 | | Fix funds (deposit/withdraw) | ⬜ | |
-| 65 | | Fix orders creation & execution | ⬜ | |
-| 66 | | Fix holdings after trades | ⬜ | |
-| 67 | | Fix CORS & env vars | ⬜ | |
-| 68 | | Full end-to-end test on live app | ⬜ | |
+| 51 | | Audit auth routes in production | ⬜ | |
+| 52 | | Fix register endpoint | ⬜ | |
+| 53 | | Fix login + JWT | ⬜ | |
+| 54 | | Fix funds (deposit/withdraw) | ⬜ | |
+| 55 | | Fix orders creation & execution | ⬜ | |
+| 56 | | Fix holdings after trades | ⬜ | |
+| 57 | | Fix CORS & env vars | ⬜ | |
+| 58 | | Full end-to-end test on live app | ⬜ | |
 
 ### Sprint 2 — Next.js Migration
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 69 | | `create-next-app` in apps/web | ⬜ | |
-| 70 | | Dashboard layout (TopBar+Sidebar) | ⬜ | |
-| 71 | | Migrate WatchList component | ⬜ | |
-| 72 | | Migrate OrderPanel | ⬜ | |
-| 73 | | Migrate Funds page | ⬜ | |
-| 74 | | Migrate Holdings page | ⬜ | |
-| 75 | | Login/Register with NextAuth | ⬜ | |
-| 76 | | Middleware route protection | ⬜ | |
+| 59 | | `create-next-app` in apps/web | ⬜ | |
+| 60 | | Dashboard layout (TopBar+Sidebar) | ⬜ | |
+| 61 | | Migrate WatchList component | ⬜ | |
+| 62 | | Migrate OrderPanel | ⬜ | |
+| 63 | | Migrate Funds page | ⬜ | |
+| 64 | | Migrate Holdings page | ⬜ | |
+| 65 | | Login/Register with NextAuth | ⬜ | |
+| 66 | | Middleware route protection | ⬜ | |
 
 ### Sprint 3 — Live Market Data
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 77 | | Yahoo Finance API integration | ⬜ | |
-| 78 | | Market quote route in Express | ⬜ | |
-| 79 | | TradingView candlestick chart | ⬜ | |
-| 80 | | Socket.io price broadcasting | ⬜ | |
-| 81 | | Live price updates in UI | ⬜ | |
+| 67 | | Yahoo Finance API integration | ⬜ | |
+| 68 | | Market quote route in Express | ⬜ | |
+| 69 | | TradingView candlestick chart | ⬜ | |
+| 70 | | Socket.io price broadcasting | ⬜ | |
+| 71 | | Live price updates in UI | ⬜ | |
 
 ### Sprint 4 — AI Features
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 82 | | OpenAI client setup | ⬜ | |
-| 83 | | Stock analyzer (Buy/Sell/Hold) | ⬜ | |
-| 84 | | AI signal card component | ⬜ | |
-| 85 | | Streaming AI chat backend | ⬜ | |
-| 86 | | AI chat UI page | ⬜ | |
-| 87 | | News sentiment (NewsAPI) | ⬜ | |
-| 88 | | Trading journal + AI review | ⬜ | |
+| 72 | | OpenAI client setup | ⬜ | |
+| 73 | | Stock analyzer (Buy/Sell/Hold) | ⬜ | |
+| 74 | | AI signal card component | ⬜ | |
+| 75 | | Streaming AI chat backend | ⬜ | |
+| 76 | | AI chat UI page | ⬜ | |
+| 77 | | News sentiment (NewsAPI) | ⬜ | |
+| 78 | | Trading journal + AI review | ⬜ | |
 
 ### Sprint 5 — Python ML Service
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 89 | | FastAPI microservice setup | ⬜ | |
-| 90 | | FinBERT sentiment analysis | ⬜ | |
-| 91 | | Prophet price prediction | ⬜ | |
-| 92 | | Portfolio optimizer (scipy) | ⬜ | |
-| 93 | | Risk score engine | ⬜ | |
-| 94 | | Deploy ML service to Railway | ⬜ | |
+| 79 | | FastAPI microservice setup | ⬜ | |
+| 80 | | FinBERT sentiment analysis | ⬜ | |
+| 81 | | Prophet price prediction | ⬜ | |
+| 82 | | Portfolio optimizer (scipy) | ⬜ | |
+| 83 | | Risk score engine | ⬜ | |
+| 84 | | Deploy ML service to Railway | ⬜ | |
 
 ### Sprint 6 — UI/UX Polish
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 95 | | Dark mode design system | ⬜ | |
-| 96 | | Price change animations | ⬜ | |
-| 97 | | Skeleton loading states | ⬜ | |
-| 98 | | Mobile responsive layout | ⬜ | |
-| 99 | | Portfolio performance chart | ⬜ | |
-| 100 | | Micro-animations & hover effects | ⬜ | |
+| 85 | | Dark mode design system | ⬜ | |
+| 86 | | Price change animations | ⬜ | |
+| 87 | | Skeleton loading states | ⬜ | |
+| 88 | | Mobile responsive layout | ⬜ | |
+| 89 | | Portfolio performance chart | ⬜ | |
+| 90 | | Micro-animations & hover effects | ⬜ | |
 
 ### Sprint 7 — Production & Docs
 
 | Day | Date | Task | Status | Notes |
 |-----|------|------|--------|-------|
-| 101 | | Unit tests (Jest) | ⬜ | |
-| 102 | | E2E tests (Playwright) | ⬜ | |
-| 103 | | Security hardening | ⬜ | |
-| 104 | | Lighthouse performance audit | ⬜ | |
-| 105 | | Sentry error monitoring | ⬜ | |
-| 106 | | Final deployment (all 3 services) | ⬜ | |
-| 107 | | Architecture documentation | ⬜ | |
-| 108 | | Demo video recording | ⬜ | |
+| 91 | | Unit tests (Jest) | ⬜ | |
+| 92 | | E2E tests (Playwright) | ⬜ | |
+| 93 | | Security hardening | ⬜ | |
+| 94 | | Lighthouse performance audit | ⬜ | |
+| 95 | | Sentry error monitoring | ⬜ | |
+| 96 | | Final deployment (all 3 services) | ⬜ | |
+| 97 | | Architecture documentation | ⬜ | |
+| 98 | | Demo video recording | ⬜ | |
+
+---
+
+## 📘 PHASE 5 (Bonus) — Web Core Deep Dive (Week 29–30)
+
+| Day | Date | Topic | Status | Notes / What I Built |
+|-----|------|-------|--------|----------------------|
+| 99 | | HTML Semantics | ⬜ | |
+| 100 | | CSS Flexbox & Grid | ⬜ | |
+| 101 | | CSS Animations & Responsive | ⬜ | |
+| 102 | | JS ES6+ (arrow fn, destructuring) | ⬜ | |
+| 103 | | JS Async (Promises, async/await) | ⬜ | |
+| 104 | | JS Modules (import/export) | ⬜ | |
+| 105 | | React — Components & Props | ⬜ | |
+| 106 | | React — Hooks (useState, useEffect) | ⬜ | |
+| 107 | | React — State Lifting & Composition | ⬜ | |
+| 108 | | Git & GitHub (branches, commits) | ⬜ | |
+
+**Phase 5 Progress:** `0 / 10` ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
@@ -212,13 +212,13 @@ git push origin main
 
 | Phase | Total Days | Done | Progress |
 |-------|-----------|------|---------|
-| Phase 0 — Prerequisites | 10 | 10 | `██████████` 100% |
 | Phase 1 — Foundations | 12 | 0 | `░░░░░░░░░░` 0% |
 | Phase 2 — Intermediate | 12 | 0 | `░░░░░░░░░░` 0% |
 | Phase 3 — Advanced | 16 | 0 | `░░░░░░░░░░` 0% |
 | Phase 4 — Full-Stack | 10 | 0 | `░░░░░░░░░░` 0% |
 | Project — TradeMind v2.0 | 48 | 0 | `░░░░░░░░░░` 0% |
-| **TOTAL** | **108** | **10** | `█░░░░░░░░░` **9%** |
+| Phase 5 — Web Core Deep Dive | 10 | 0 | `░░░░░░░░░░` 0% |
+| **TOTAL** | **108** | **0** | `░░░░░░░░░░` **0%** |
 
 ---
 
@@ -228,7 +228,7 @@ git push origin main
 
 | Day | Date | Quick Summary |
 |-----|------|--------------|
-| 1-10 | | Completed all Phase 0 basics: HTML, CSS, JS, React Hooks & State, Git. Ready for Next.js! |
+| 1 | | *(Start here — write your first entry!)* |
 
 ---
 
